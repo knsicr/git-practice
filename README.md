@@ -6,4 +6,5 @@ new-featureブランチで変更
 
 no-fast-foward変更
 
-mainブランチで変更→コンフリクト発生
+
+conflict変更
