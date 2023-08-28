@@ -3,3 +3,5 @@
 
 変更
 new-featureブランチで変更
+
+no-fast-foward変更
