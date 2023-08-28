@@ -5,3 +5,5 @@
 new-featureブランチで変更
 
 no-fast-foward変更
+
+conflict変更
