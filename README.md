@@ -10,4 +10,4 @@ no-fast-foward変更
 conflict変更
 
 
-github上で更新
+github上で更新(for conflict)
