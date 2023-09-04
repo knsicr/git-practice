@@ -13,4 +13,4 @@ conflict変更
 
 conflict-remote上で更新
 
-rebase-praqcticeで更新
+rebase-praqcticeで更新2
