@@ -13,5 +13,4 @@ conflict変更
 
 conflict-remote上で更新
 
-
-mainブランチで更新（コンフリクト用）
+rebase-praqcticeで更新
